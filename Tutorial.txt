@@ -1,0 +1,4 @@
+Aqui nesse arquivo, o objetivo é criar uma pasta compartilhada e tudo que adicionamos nela, ela envia para sua pasta de inicialização do Windows.
+Assim toda vez que ligamos o computador, a máquina já inicia com os arquivos que estão na pasta inicializar.
+
+Muito útil para trabalhar com computadores em massa, para não ter que ficar configurando um computador por vez. Assim, todas máquinas que iniciar, já importa os arquivos da pasta compartilhada na rede pra dentro dela na inicialização.
